@@ -2,7 +2,7 @@
 
 # Profil Fotografer Profesional
 
-Halaman ini merupakan profil dari John Doe, seorang fotografer profesional dengan pengalaman lebih dari 10 tahun. Halaman ini dibangun menggunakan HTML5 dan CSS untuk menampilkan informasi tentang diri, portofolio, dan cara menghubungi melalui media sosial.
+Halaman ini merupakan profil dari citra normalia, seorang fotografer profesional. Halaman ini dibangun menggunakan HTML5 dan CSS untuk menampilkan informasi tentang diri, portofolio, dan cara menghubungi melalui media sosial.
 
 ## Struktur Halaman
 
